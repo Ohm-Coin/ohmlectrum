@@ -2,12 +2,8 @@ Ohmlectrum - Lightweight Ohm client
 ==========================================
 
 ::
-
-  Licence: MIT Licence
-  Original Author: Thomas Voegtlin and Pooler
-  Port Maintainer: Romano
-  Language: Python 2
-  Homepage: https://ohmlectrum.org/
+Licence: MIT Licence
+ 
 
 
 
