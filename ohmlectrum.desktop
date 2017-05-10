@@ -1,0 +1,17 @@
+# If you want electrum to appear in a linux app launcher ("start menu"), install this by doing:
+# sudo desktop-file-install electrum.desktop
+
+[Desktop Entry]
+Comment=Lightweight Ohm Client
+Exec=ohmlectrum %u
+GenericName[en_US]=Ohm Wallet
+GenericName=Ohm Wallet
+Icon=ohmlectrum
+Name[en_US]=Electrum Ohm Wallet
+Name=Electrum Ohm Wallet
+Categories=Finance;Network;
+StartupNotify=false
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/ohm;
+

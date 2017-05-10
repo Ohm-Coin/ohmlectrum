@@ -1,0 +1,3 @@
+ohmlectrum
+ohmlectrum_gui
+ohmlectrum_plugins
